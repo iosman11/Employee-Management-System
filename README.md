@@ -16,7 +16,7 @@ This application is designed to create a company database to keep track of emplo
 
 - open a terminal 
 - node.js needs to be installed prior to use
-- clone the repo: https://github.com/aali9/Employee-Management-System
+- clone the repo: https://github.com/iosman11/Employee-Management-System
 - download npm JSON packages by entering `npm i or npm install`
 - enter `npm start` to start the index.js file
 - follow prompts
